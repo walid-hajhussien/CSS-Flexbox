@@ -35,6 +35,10 @@ nav a:hover {
 }
 
 @media screen and (min-width: 768px) {
+  nav {
+    display: flex;
+    justify-content: space-between;
+  }
   nav ul {
     display: flex;
     justify-content: flex-start;
@@ -44,9 +48,9 @@ nav a:hover {
     flex-grow: 0;
   }
 
-  #login {
+  /* #login {
     flex-grow: 1;
     text-align: right;
     float: right;
-  }
+  } */
 }
