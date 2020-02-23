@@ -1,0 +1,24 @@
+{
+  "name": "css-flexbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "grunt deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walid-hajhussien/CSS-Flexbox.git"
+  },
+  "author": "Walid-HajHussien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walid-hajhussien/CSS-Flexbox/issues"
+  },
+  "homepage": "https://github.com/walid-hajhussien/CSS-Flexbox#readme",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-shell": "^3.0.1"
+  }
+}
