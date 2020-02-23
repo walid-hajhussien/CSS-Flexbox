@@ -9,7 +9,6 @@ body {
 
 .wrapper {
   width: 100%;
-  max-width: 960px;
   margin: 0 auto;
 }
 
@@ -45,7 +44,9 @@ nav a:hover {
     flex-grow: 0;
   }
 
-  #contact {
-    flex-grow: 3;
+  #login {
+    flex-grow: 1;
+    text-align: right;
+    float: right;
   }
 }
